@@ -5,7 +5,7 @@
    <br>
    <br>
    <h2 align="center">IoT Snacksbox api documantaion </h2>
-   <img src="asset/Top.PNG" alt="Front Page" width=800px, height="210px">
+   <img align="center" src="asset/Top.PNG" alt="Front Page" width=800px, height="210px">
 </p>
 
 
